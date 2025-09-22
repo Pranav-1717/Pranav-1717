@@ -50,5 +50,4 @@ I am dedicated and enthusiastic Software Engineer
 
 ---
 
-![Metrics](https://raw.githubusercontent.com/Pranav-1717/Pranav-1717/main/github-metrics.svg)
 
