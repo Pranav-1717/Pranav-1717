@@ -21,7 +21,7 @@ I am dedicated and enthusiastic Software Engineer
 
 ---
 
-### 🔹 [Debatron](https://github.com/pranavkaniche/grocery-ocr](https://github.com/Pranav-1717/Debatron))  
+### 🔹 [Debatron](https://github.com/Pranav-1717/Debatron)  
 - Designed a live debate platform where users join, speak in real-time, and compete on trending topics using voice input.
 - Captured and transcribed spoken arguments using Deepgram, then analyzed them with Gemini AI to generate individual performance scores.
 - Delivered post-debate analytics including strengths, weak points, and visual scoreboard.
@@ -50,5 +50,5 @@ I am dedicated and enthusiastic Software Engineer
 
 ---
 
-![Metrics](https://github.com/Pranav-1717/Pranav-1717/blob/main/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Pranav-1717/Pranav-1717/main/github-metrics.svg)
 
