@@ -36,7 +36,7 @@ I am dedicated and enthusiastic Software Engineer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-1717&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pranav-1717&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Pranav-1717&theme=tokyonight&hide_border=true)
 
 ---
 
