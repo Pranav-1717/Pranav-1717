@@ -32,6 +32,13 @@ I am dedicated and enthusiastic Software Engineer
 
 ---
 
+---
+## Tutorials
+~[Kafka](https://github.com/Pranav-1717/kafka-nodejs-tutorial)
+~[System Design](https://github.com/Pranav-1717/System_Design_Tutorials)
+~[Multithreading in c++](https://github.com/Pranav-1717/multithreading_in_cpp)
+---
+
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranav-1717&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-1717&layout=compact&theme=tokyonight)
