@@ -31,8 +31,6 @@ I am dedicated and enthusiastic Software Engineer
 ~[Smart Pointers  in c++](https://smartpointers0.wordpress.com/)
 
 ---
-
----
 ## Tutorials
 
 ~[Kafka](https://github.com/Pranav-1717/kafka-nodejs-tutorial)<br>
